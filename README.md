@@ -12,4 +12,5 @@ A machine learning system to classify music genres from audio.  This code was wr
 
 - Explore Fourier analysis to model sound.
 - Explore the connections between Fourier analysis and ConvNets.
+- Potentially: explore Haskell implementations of GLMs or deep learning models.
 - Make this code nice.
